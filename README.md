@@ -8,6 +8,7 @@ To install all the requirements for the project run
 	pip install -r requirements.txt
 
 To run 
+
 	python video_emotion_color_demo.py
 
 
