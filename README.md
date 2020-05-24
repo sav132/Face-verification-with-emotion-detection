@@ -1,7 +1,7 @@
-### Face verification with emotion detection in realtime using webcam
+## Face verification with emotion detection in realtime using webcam
 
 
-## How to use
+### How to use
 
 To install all the requirements for the project run
 
